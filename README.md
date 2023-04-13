@@ -26,7 +26,7 @@
 - ✔️ | AI Feature (ChatGPT/DALL-E)
 - ✔️ | Jadi Anime
 - ✔️ | Sticker 
-- ✔️ | Kerang Ajaib 
+- ❌ | Kerang Ajaib 
 - ✔️ | Quotes
 - ✔️ | Anime 
 - ✔️ | Premium 
