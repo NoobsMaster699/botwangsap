@@ -18,8 +18,7 @@ let handler = async (m) => {
     conn.sendButton(m.chat,'*––––––『 MONTHLY 』––––––*', text.trim(), null, [['Inventory', '.inv'], ['Menu', '.menu']],m)
     user.lastmonthly = new Date * 1
 }
-handler.help = ['monthly']
-handler.tags = ['rpg']
+
 handler.command = /^(monthly)$/i
 
 handler.cooldown = cooldown

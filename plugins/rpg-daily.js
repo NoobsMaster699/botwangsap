@@ -16,8 +16,7 @@ let handler = async (m,{ conn} ) => {
   conn.sendButton(m.chat,'*––––––『 DAILY 』––––––*', text.trim(), null, [['Inventory', '.inv'], ['Weekly', '.weekly']],m)
   user.lastclaim = new Date * 1
 }
-handler.help = ['daily', 'claim']
-handler.tags = ['xp']
+
 handler.command = /^(daily|claim)$/i
 
 handler.cooldown = cooldown
