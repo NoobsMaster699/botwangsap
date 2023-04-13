@@ -22,7 +22,7 @@
 ### Some of the features include
 - ✔️ | Menfess
 - ✔️ | AntiCall
-- ✔️ | Game & Rpg Game
+- ❌ | Game & Rpg Game
 - ✔️ | AI Feature (ChatGPT/DALL-E)
 - ✔️ | Jadi Anime
 - ✔️ | Sticker 
